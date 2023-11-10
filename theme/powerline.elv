@@ -6,10 +6,10 @@
 #
 # To use this theme, first install it via epm:
 #   use epm
-#   epm:install github.com/muesli/elvish-libs
+#   epm:install github.com/LaurentFough/elvish-libs-muesli
 #
 # Then add the following lines to your rc.elv file:
-#	use github.com/muesli/elvish-libs/theme/powerline
+#	use github.com/LaurentFough/elvish-libs-muesli/theme/powerline
 #	edit:prompt-stale-transform = [x]{ put $x }
 #	edit:rprompt-stale-transform = [x]{ put $x }
 #
@@ -30,7 +30,7 @@
 use re
 use str
 
-use github.com/muesli/elvish-libs/git
+use github.com/LaurentFough/elvish-libs-muesli/git
 
 # Default values (all can be configured by assigning to the appropriate variable):
 
