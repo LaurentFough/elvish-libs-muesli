@@ -10,7 +10,7 @@
 #   epm:install github.com/LaurentFough/elvish-libs-muesli
 #
 # Then add the following line to import it somewhere:
-#   use github.com/muesli/elvish-libs/git
+#   use github.com/LaurentFough/elvish-libs-muesli/git
 #
 
 use re
