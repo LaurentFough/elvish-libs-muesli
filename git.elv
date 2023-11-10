@@ -7,7 +7,7 @@
 #
 # To use this module, first install it via epm:
 #   use epm
-#   epm:install github.com/muesli/elvish-libs
+#   epm:install github.com/LaurentFough/elvish-libs-muesli
 #
 # Then add the following line to import it somewhere:
 #   use github.com/muesli/elvish-libs/git
